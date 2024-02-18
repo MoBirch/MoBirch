@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Student at Copenhagen University studying Machine Learning & Data Science
 <!--
 **MoBirch/MoBirch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
